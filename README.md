@@ -4,6 +4,8 @@
 This project analyzes e-commerce sales data using SQL, Excel, and Tableau. 
 It demonstrates data cleaning, transformation, aggregation, and interactive visualization to uncover business insights.
 
+## Dataset
+- [`Online Retail II`](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 ## Tools & Skills
 - SQL Server / T-SQL: Data cleaning, aggregation, views
 - Excel: Data transformation, custom date formatting
